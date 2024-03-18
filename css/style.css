@@ -32,6 +32,20 @@ ul{
     padding: 10px;
     margin-top: 20px;
 }
+table{
+    width: 100%;
 
+}
+.azzurro{
+    background-color: aqua;
+}
+thead{
+    background-color:blue ;
+    color:white;
+}
+table,tr,td{
+    padding-right: 30px;
+    border-collapse: collapse;
+}
 
 
