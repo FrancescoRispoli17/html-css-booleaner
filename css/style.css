@@ -28,6 +28,9 @@ h1{
     margin-top: 15px;;
     font-size: 80%;
 }
+.pmargin{
+    margin-top: 20px;
+}
 ul{
     padding: 10px;
     margin-top: 20px;
@@ -44,8 +47,32 @@ thead{
     color:white;
 }
 table,tr,td{
-    padding-right: 30px;
+    padding-right: 50px;
     border-collapse: collapse;
+}
+h3{
+    margin-top: 40px;
+    color: gray;
+}
+#img1{
+    width: 350px;
+    height: 275px;
+    margin-top: 10px;
+    background-image: url('../img/monitor.jpg');
+    background-size: cover;
+    color:white;
+    padding: 2px;
+    font-size: 30px;
+}
+#img2{
+    width: 350px;
+    height: 275px;
+    margin-top: 10px;
+    background-image: url('../img/graph.jpg');
+    background-size: cover;
+    color:white;
+    padding: 2px;
+    font-size: 30px;
 }
 
 
